@@ -1,5 +1,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*RN0VxTZiCzKTQbuwmOSYzA.jpeg" alt="SQL Data Analyst Journey" width="900" height="450">
 
+**To read the full Medium blog, [Click here](https://medium.com/@saudajaz143/from-zero-to-sql-hero-a-7-day-data-analyst-journey-f0fbb8455b62)**
 
 # SQL Queries Documentation – Ecommerce Analysis
 
